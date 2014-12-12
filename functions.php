@@ -1,7 +1,7 @@
 <?php
 
 /**
- * BenjaminWP - 2013 functions and definitions
+ * BenjaminWP - 2015 functions and definitions
  *
  * @package BenjaminWP
  * @package BenjaminWP - 2015 1.0
