@@ -1,16 +1,16 @@
 <?php
 
 /**
- * _bootstraps - 2013 functions and definitions
+ * BenjaminWP - 2013 functions and definitions
  *
- * @package _bootstraps
- * @package _bootstraps - 2013 1.0
+ * @package BenjaminWP
+ * @package BenjaminWP - 2015 1.0
  */
 
 /**
  * Bootstrap Theme Class
  *
- * @package _bootstraps - 2013 1.0
+ * @package BenjaminWP - 2015 1.0
  */
 class BenjaminWP_Bootstrap {
 
@@ -29,7 +29,7 @@ class BenjaminWP_Bootstrap {
      * before the init hook. The init hook is too late for some features, such as indicating
      * support post thumbnails.
      *
-     * @package _bootstraps - 2013 1.0
+     * @package BenjaminWP - 2015 1.0
      */
     function setup_theme() {
 
@@ -107,7 +107,7 @@ class BenjaminWP_Bootstrap {
     /**
      * Register widgetized area and update sidebar with default widgets
      *
-     * @package _bootstraps - 2013 1.0
+     * @package BenjaminWP - 2015 1.0
      */
     function widgets_init() {
         register_sidebar( array(

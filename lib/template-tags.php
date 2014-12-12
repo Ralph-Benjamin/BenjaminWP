@@ -4,7 +4,7 @@
  *
  * Eventually, some of the functionality here could be replaced by core features
  *
- * @package _bootstraps
+ * @package BenjaminWP
  */
 
 
@@ -14,7 +14,7 @@ if ( ! function_exists( 'BenjaminWP_comment' ) ) :
  *
  * Used as a callback by wp_list_comments() for displaying the comments.
  *
- * @package _bootstraps - 2013 1.0
+ * @package BenjaminWP - 2015 1.0
  */
 function BenjaminWP_comment( $comment, $args, $depth ) {
     $GLOBALS['comment'] = $comment;
@@ -70,7 +70,7 @@ if ( ! function_exists( 'BenjaminWP_posted_on' ) ) :
 /**
  * Prints HTML with meta information for the current post-date/time and author.
  *
- * @package _bootstraps - 2013 1.0
+ * @package BenjaminWP - 2015 1.0
  */
 function BenjaminWP_posted_on() {
     printf( __( '<a href="%1$s" title="%2$s" rel="bookmark"><time class="entry-date" datetime="%3$s" pubdate>%4$s</time></a><span class="byline"></span>', 'BenjaminWP' ),

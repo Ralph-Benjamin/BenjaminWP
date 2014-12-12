@@ -2,8 +2,8 @@
 /**
  * The Sidebar containing the main widget areas.
  *
- * @package _bootstraps
- * @package _bootstraps - 2013 1.0
+ * @package BenjaminWP
+ * @package BenjaminWP - 2015 1.0
  */
 ?>
 <div id="secondary" class="col-md-4" role="complementary">

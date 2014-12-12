@@ -7,8 +7,8 @@
  * and that other 'pages' on your WordPress site will use a
  * different template.
  *
- * @package _bootstraps
- * @package _bootstraps - 2013 1.0
+ * @package BenjaminWP
+ * @package BenjaminWP - 2015 1.0
  */
 get_header();
 ?>

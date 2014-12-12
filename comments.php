@@ -7,8 +7,8 @@
  * handled by a callback to tp_comment() which is
  * located in the functions.php file.
  *
- * @package _bootstraps
- * @package _bootstraps - 2013 1.0
+ * @package BenjaminWP
+ * @package BenjaminWP - 2015 1.0
  */
 ?>
 
